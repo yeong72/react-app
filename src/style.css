@@ -1,0 +1,6 @@
+/* general */
+*{padding:0; margin:0;}
+
+/* Background Search */
+input.search{position:absolute; top:0; right:0; width:190px; height:33px; padding:3px; background:transparent; outline:none; border:none; font-size:14px; color:#fff;}
+
